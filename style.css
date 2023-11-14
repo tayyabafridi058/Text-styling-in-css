@@ -1,0 +1,202 @@
+/* FONT FAMILY */
+/*body {
+
+  font-family: Georgia, Times, serif;
+}
+
+h1,
+h2 {
+  font-family: Arial, Verdana, sans-serif;
+}
+
+.credits {
+  font-family: "Courier New", Courier,
+    monospace;
+}*/
+/* FONT SIZE */
+/* Pixel size  */
+/*p{
+  font-size: 30px;
+}*/
+/* percentage */
+/*p{
+  font-size: 500%;
+}/
+/* default values */
+/*p{
+  font-size: larger;
+}*/
+/* p{
+  font-size: 3em;
+}*/
+
+
+/* FONT FAMILY */
+/*@font-face {
+  font-family: 'test';
+  src: url(/Stranger.ttf);
+}
+h1{
+  font-family: test;
+}*/
+
+
+/* FONT- WEIGHT */
+/*h1{
+  font-weight: bold;
+}*/
+
+
+/* FONT-STYLE */
+/*#normal{
+  font-style: normal;
+}
+#italic{
+  font-style: italic;
+}
+#oblique{
+  font-style: oblique;
+}*/
+
+
+/* TEXT-TRANSFORM */
+/*.upercase{
+  text-transform: uppercase;
+}
+.lowercase{
+  text-transform: lowercase;
+}
+.capitalize{
+  text-transform: capitalize
+}*/
+
+
+/* TEXT-DECORATION */
+/*#none{
+  text-decoration: none;
+}
+
+#overline{
+  text-decoration: overline;
+}
+
+#underline{
+  text-decoration: underline;
+}
+
+#line-through{
+  text-decoration: line-through
+}
+#blink{
+  text-decoration: blink;
+}*/
+
+
+/* LINE-HEIGHT */
+/*p{
+  line-height: 100px
+}*/
+
+/* LETTER AND WORD SPACING */
+/* WORD SPACING */
+/* 
+h1{
+  word-spacing: 5px;
+}
+*/
+
+/* LETTER SPACING */
+/*h1{
+  letter-spacing: 9px
+}*/
+/* TEXT ALIGN */
+/*h1{
+  text-align: center
+}
+
+p{
+  text-align: justify
+}*/
+
+/* VERTICLE ALIGNMENT */
+/*img{
+  vertical-align: text-top
+}*/
+
+/* TEXT INDENT */
+/*p{
+  text-indent: 81px;
+  text-align: justify;
+}*/
+
+/* TEXT SHADOW */
+/*h1{
+  background-color: #eeeeee;
+  color: rgba(91, 91, 98, 1);
+  text-shadow: 1px 1px 1px black;
+}*/
+
+/* FIRST LETTER AND FIRST LINE */
+/*p:first-letter{
+  color: blue;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
+  font-family: serif;
+}*/
+
+/* STYLING LINK */
+/*a:link{
+  color: green;
+}
+a:visited{
+  color: red;
+}*/
+
+/* RESPONDING USER */
+/* HOVER */
+/*input.btn:hover{
+  background-color: green;
+}
+
+input.btn:active{
+  background-color: wheat;
+}
+
+input.textbox:focus{
+  background-color: gray;
+}
+
+input.btn:focus{
+  background-color: gray;
+}*/
+
+/* RESPONDING SELECTORS */
+/*h1[id]{
+  color: red;
+}*/
+
+/* equality */
+/*h1[id=hi]{
+  color: red;
+}*/
+
+/* space */
+/*h1[id~="hi"]{
+  color: hotpink;
+}*/
+
+/* prefix */
+/*h1[id^="h"]{
+  color: red;
+}*/
+
+/* substring */
+/*h1[id*="el"]{
+  color: red;
+}*/
+
+/* suffix */
+/*h1[id$="l"]{
+  color: red;
+}*/
